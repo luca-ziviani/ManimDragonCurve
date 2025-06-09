@@ -10,7 +10,7 @@ class DragonCurve(Scene):
         # Initial orientation
         direction = np.array([-np.cos(np.pi*n/4), np.sin(np.pi*n/4),0])
 
-        # Matrix of the rotations (90°)
+        # Rotation matrices (90°)
         turn_left = np.array([[0.,-1.,0.],[1.,0.,0.],[0.,0.,0.]])
         turn_right = np.array([[0.,1.,0.],[-1.,0.,0.],[0.,0.,0.]])
 
