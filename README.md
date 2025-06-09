@@ -5,6 +5,4 @@ The curve is constructed through an L-system, see the definition at the Wikipedi
 
 See the documentation for Manim at the webpage [https://www.manim.community/](https://www.manim.community/).
 
-<video width="320" height="240" controls>
-  <source src="DragonCurve.mp4" type="video/mp4">
-</video>
+![](Dragon.Curve.mp4)
